@@ -107,6 +107,8 @@ nav a:first-child {
    margin-right: 25px;
 }
 
+/*Sidebar*/
+
 .sidebar {
    background: #fff;
    padding: 30px;
@@ -184,6 +186,8 @@ footer {
     margin-bottom: 0;
     font-weight: 300;
 }
+
+/*contact*/
 
 #contact-form ul{
     margin-bottom: 20px;
